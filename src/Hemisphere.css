@@ -1,0 +1,21 @@
+.Northern {
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+	background-color: rgb(2, 15, 51);
+	color: gold;
+}
+
+.Southern {
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+	background-color: gold;
+	color: rgb(2, 15, 51);
+}
